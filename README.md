@@ -1,0 +1,1 @@
+# icp_stakia_canister
